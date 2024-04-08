@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{7B44FF08-C8C1-467A-A132-B730721474B4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Data/Migrations/00000000000000_CreateIdentitySchema.cs">
+    <Files>
+      <File FileName="Data/Migrations/00000000000000_CreateIdentitySchema.cs" Line="11" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ContactManager" expanded="True">
+            <Node name="ContactManager" expanded="True">
+              <Node name="ConnectedServicesFolder" selected="True" />
+              <Node name="Areas" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ContactManager PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
